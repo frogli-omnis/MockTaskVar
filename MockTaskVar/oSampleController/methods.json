@@ -1,0 +1,31 @@
+[
+	{
+		"name": "$isDuplicateEntry",
+		"ident": 0,
+		"order": 3,
+		"pvardefs": [
+			{
+				"name": "pSampleName",
+				"order": 1,
+				"type": "kCharacter",
+				"subtype": "kSimplechar",
+				"sublen": 100000000,
+				"param": 1
+			}
+		],
+		"lvardefs": [
+
+		]
+	},
+	{
+		"name": "$getSampleCount",
+		"ident": 1,
+		"order": 4,
+		"pvardefs": [
+
+		],
+		"lvardefs": [
+
+		]
+	}
+]

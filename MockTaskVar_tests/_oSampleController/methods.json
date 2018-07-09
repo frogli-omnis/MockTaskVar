@@ -1,0 +1,24 @@
+[
+	{
+		"name": "$setup",
+		"ident": 0,
+		"order": 2,
+		"pvardefs": [
+
+		],
+		"lvardefs": [
+
+		]
+	},
+	{
+		"name": "$u_getSampleCount",
+		"ident": 2,
+		"order": 3,
+		"pvardefs": [
+
+		],
+		"lvardefs": [
+
+		]
+	}
+]

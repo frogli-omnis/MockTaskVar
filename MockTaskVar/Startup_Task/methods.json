@@ -1,0 +1,42 @@
+[
+	{
+		"name": "$useSeparateTestLibrary",
+		"ident": 2,
+		"order": 1,
+		"pvardefs": [
+
+		],
+		"lvardefs": [
+
+		]
+	},
+	{
+		"name": "$construct",
+		"ident": 0,
+		"order": 2,
+		"pvardefs": [
+
+		],
+		"lvardefs": [
+			{
+				"name": "loSample",
+				"order": 1,
+				"type": "kObject",
+				"subtype": "oSample",
+				"sublen": 0
+			}
+		]
+	},
+	{
+		"name": "$destruct",
+		"ident": 1,
+		"order": 3,
+		"pvardefs": [
+
+		],
+		"lvardefs": [
+
+		],
+		"empty": true
+	}
+]

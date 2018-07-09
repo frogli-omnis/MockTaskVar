@@ -1,0 +1,7 @@
+If tSampleList.$colcount=0
+	Do tSampleList.$define(lName,lSampleNumber)
+End If
+Do tSampleList.$add('Cappucinno',1)
+Do tSampleList.$add('Latte',2)
+Do tSampleList.$add('Espresso',3)
+Do tSampleList.$add('Black',4)

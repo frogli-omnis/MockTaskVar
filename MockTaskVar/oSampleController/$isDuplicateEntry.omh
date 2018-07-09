@@ -1,0 +1,3 @@
+Do tSampleList.$search($ref.lName=pSampleName,kTrue,kFalse,kTrue,kFalse)
+
+Quit method tSampleList.$totc(#LSEL)>2

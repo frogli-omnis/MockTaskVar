@@ -1,0 +1,3 @@
+Do inherited
+
+Do $cinst.$mock($libs.MockTaskVar.$objects.oSampleController) Returns iorMock

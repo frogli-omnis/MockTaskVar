@@ -1,0 +1,33 @@
+{
+	"classtype": "kObjectclass",
+	"internalversion": 22,
+	"designtaskname": "Startup_Task",
+	"cvardefs": [
+
+	],
+	"ivardefs": [
+		{
+			"name": "irSampleList",
+			"order": 1,
+			"type": "kItemref",
+			"subtype": "",
+			"sublen": 0
+		}
+	],
+	"properties": {
+		"collectperformancedata": false,
+		"componenticon": 0,
+		"componenttype": "kCompStoreHidden",
+		"createdate": "2018-07-06 10:49:30",
+		"desc": "",
+		"editor": "",
+		"editordata": "",
+		"external": true,
+		"issupercomponent": false,
+		"moddate": "2018-07-09 14:09:07",
+		"selfcontained": false,
+		"showascheckedout": false,
+		"userinfo": "",
+		"version": ""
+	}
+}
